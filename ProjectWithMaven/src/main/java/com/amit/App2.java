@@ -1,0 +1,7 @@
+package com.amit;
+
+public class App2 {
+	public void add() {
+		System.out.println("add");
+	}
+}
